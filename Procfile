@@ -1,1 +1,1 @@
-worker: python 디코봇.py
+worker: python 봇.py
