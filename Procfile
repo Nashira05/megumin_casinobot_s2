@@ -1,1 +1,1 @@
-worker: python 봇.py
+worker: python 도박봇.py
